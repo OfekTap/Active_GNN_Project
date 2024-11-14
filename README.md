@@ -1,1 +1,1 @@
-#Active GNN project
+# Active GNN project
